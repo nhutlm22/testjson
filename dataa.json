@@ -1,0 +1,22 @@
+{
+    "products":[
+        {
+        "id": 1,
+        "name": "Coca Cola",
+        "delivery": "Delivery 24th July",
+        "price": 21,
+        "quantity": 0,
+        "total": 0,
+        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Pepsi",
+            "delivery": "Delivery 15th July",
+            "price": 22,
+            "quantity": 0,
+            "total": 0,
+            "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+        }
+    ]
+}
