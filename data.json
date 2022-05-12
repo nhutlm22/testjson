@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Coca Cola",
         "delivery": "Delivery 24th July",
-        "price": 21,
+        "price": 10,
         "quantity": 0,
         "total": 0,
         "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
@@ -12,7 +12,61 @@
         "id": 2,
         "name": "Pepsi",
         "delivery": "Delivery 15th July",
-        "price": 22,
+        "price": 12,
+        "quantity": 0,
+        "total": 0,
+        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fanta",
+        "delivery": "Delivery 24th July",
+        "price": 14,
+        "quantity": 0,
+        "total": 0,
+        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sting",
+        "delivery": "Delivery 15th July",
+        "price": 12,
+        "quantity": 0,
+        "total": 0,
+        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Olong",
+        "delivery": "Delivery 24th July",
+        "price": 12,
+        "quantity": 0,
+        "total": 0,
+        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tiger",
+        "delivery": "Delivery 15th July",
+        "price": 18,
+        "quantity": 0,
+        "total": 0,
+        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Strongbow",
+        "delivery": "Delivery 24th July",
+        "price": 20,
+        "quantity": 0,
+        "total": 0,
+        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Aquafina",
+        "delivery": "Delivery 16th July",
+        "price": 8,
         "quantity": 0,
         "total": 0,
         "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
