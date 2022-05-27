@@ -1,74 +1,35 @@
 [
     {
-        "id": 1,
-        "name": "Coca Cola",
-        "delivery": "Delivery 24th July",
-        "price": 10,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Pepsi",
-        "delivery": "Delivery 15th July",
-        "price": 12,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Fanta",
-        "delivery": "Delivery 24th July",
-        "price": 14,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Sting",
-        "delivery": "Delivery 15th July",
-        "price": 12,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Olong",
-        "delivery": "Delivery 24th July",
-        "price": 12,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    },
-    {
-        "id": 6,
-        "name": "Tiger",
-        "delivery": "Delivery 15th July",
-        "price": 18,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Strongbow",
-        "delivery": "Delivery 24th July",
-        "price": 20,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Aquafina",
-        "delivery": "Delivery 16th July",
-        "price": 8,
-        "quantity": 0,
-        "total": 0,
-        "image": "https://csfood.vn/wp-content/uploads/2016/07/N%C6%B0%E1%BB%9Bc-gi%E1%BA%A3i-kh%C3%A1t-Coca-Cola-lon-250ml.jpg"
-    }
+    id: 1,
+    licensePlate: 'BBN-6789',
+    date: '2021/06/20',
+    time: '13:20',
+    progress: 20,
+    company: '和泰產險',
+    source: '線上報出險',
+    name: 'Yris',
+    caseNo: 21060090,
+  },
+  {
+    id: 2,
+    licensePlate: 'APL-1332',
+    date: '2021/06/20',
+    time: '10:29',
+    progress: 36,
+    company: '和泰產險',
+    source: '專員自行建立',
+    name: 'Corolla Cross',
+    caseNo: 21060090,
+  },
+  {
+    id: 3,
+    licensePlate: 'APL-1335',
+    date: '2021/06/20',
+    time: '11:06',
+    progress: 81,
+    company: '和泰產險',
+    source: '專員自行建立',
+    name: 'Corolla Cross',
+    caseNo: 21060090,
+  },
 ]
