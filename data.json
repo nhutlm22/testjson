@@ -1,35 +1,30 @@
 [
-  {
+   {
+    "albumId": 1,
     "id": 1,
-    "licensePlate": "BBN-6789",
-    "date": "2021/06/20",
-    "time": "13:20",
-    "progress": 20,
-    "company": "和泰產險",
-    "source": "線上報出險",
-    "name": "Yris",
-    "caseNo": 21060090,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
+    "albumId": 1,
     "id": 2,
-    "licensePlate": "BBN-9999",
-    "date": "2022/06/20",
-    "time": "16:20",
-    "progress": 36,
-    "company": "和泰產險",
-    "source": "線上報出險",
-    "name": "Yris",
-    "caseNo": 21060090,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
   },
   {
+    "albumId": 1,
     "id": 3,
-    "licensePlate": "BBN-1234",
-    "date": "2021/06/20",
-    "time": "10:20",
-    "progress": 85,
-    "company": "和泰產險",
-    "source": "線上報出險",
-    "name": "Yris",
-    "caseNo": 21060090,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
   },
 ]
