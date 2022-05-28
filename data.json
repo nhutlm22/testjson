@@ -1,19 +1,35 @@
-[ 
+[
   {
     "id": 1,
-    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "licensePlate": "BBN-6789",
+    "date": "2022/06/20",
+    "time": "13:20",
+    "progress": 20,
+    "company": "和泰產險",
+    "source": "線上報出險",
+    "name": "Yris",
+    "caseNo": 21060090,
   },
   {
     "id": 2,
-    "title": "reprehenderit est deserunt velit ipsam",
+    "licensePlate": "BBN-1234",
+    "date": "2021/06/20",
+    "time": "23:20",
+    "progress": 62,
+    "company": "和泰產險",
+    "source": "線上報出險",
+    "name": "Yris",
+    "caseNo": 21060090,
   },
   {
     "id": 3,
-    "title": "officia porro iure quia iusto qui ipsa ut modi",
-  },
-  {
-    "id": 4,
-    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "licensePlate": "BBN-9999",
+    "date": "2024/06/20",
+    "time": "10:20",
+    "progress": 89,
+    "company": "和泰產險",
+    "source": "線上報出險",
+    "name": "Yris",
+    "caseNo": 21060093,
   }
 ]
-  
