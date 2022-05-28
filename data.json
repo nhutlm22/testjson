@@ -1,19 +1,19 @@
 [ 
   {
     "id": 1,
-    "licensePlate": "BBN6789",
+    "a": "BBN6789",
   },
   {
     "id": 2,
-    "licensePlate": "BBN1234",
+    "a": "BBN1234",
   },
   {
     "id": 3,
-    "licensePlate": "BBN9999",
+    "a": "BBN9999",
   },
   {
     "id": 4,
-    "licensePlate": "BBN6666",
+    "a": "BBN6666",
   },
 ]
   
